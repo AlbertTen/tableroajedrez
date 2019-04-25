@@ -1,0 +1,35 @@
+/* Diferencias
+/* Clase container 
+.container{
+    background-color: green;
+    height: 30px;
+}
+
+/* Clase container-fluid
+.container-fluid{
+    background-color: blue;
+    height: 30px;
+}
+
+*/
+
+/*color negro*/
+.black{ 
+    background-color: black;
+}
+
+/*color blanco */
+.white{
+    background-color: white;
+}
+
+/*estilos tablero */
+.col-1{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    height: 100px;
+}
+
+
+
